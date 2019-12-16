@@ -49,5 +49,5 @@ Scoring criteria:
 - 20%: Fix all the bugs and push the proposed solution to your repository online
 - 20%: Explain the solved exercise in the README, in the best possible way
 
-##Solution Exam
+## Solution Exam
 First modification to the repository.
