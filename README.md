@@ -57,3 +57,5 @@ First modification to the repository.
 2. 2nd Bug:When using a switch object a break should be added after the cases. I modified that
 
 3. 3rd Bug: The stringBuffer is incorrectly written as it is not interpreting the input as a string("") but as a capacity ('')
+
+4. 
