@@ -12,14 +12,14 @@ public class Main {
 
         switch (random.nextInt(3)) {
             case 0:
-                word = new StringBuffer('Y');
+                word = new StringBuffer("Y");
                 break;
             case 1:
-                word = new StringBuffer('F');
+                word = new StringBuffer("F");
                 break;
 
             case 2:
-                word = new StringBuffer('T');
+                word = new StringBuffer("T");
                 break;
 
         }
