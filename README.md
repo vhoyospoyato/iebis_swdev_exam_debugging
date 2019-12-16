@@ -54,4 +54,4 @@ First modification to the repository.
 
 1. 1st Bug: In line 8 (formattedEmailAddress) is replacing all the characters in the email to "/" when what it should be doing is just replacing the dots as the example shows. Solution: replace the ".replaceAll" method, to ".replace"  as its operation is to change all of the string characters.
 
-2. 2nd Bug:
+2. 2nd Bug:When using a switch object a break should be added after the cases. I modified that
